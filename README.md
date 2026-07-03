@@ -5,7 +5,7 @@ This repository holds the reusable context files injected into `agentic-run` dur
 ## Files
 
 - `docs/governance-rules.md` — human-readable governance guidance for Terraform reviews
-- `rules/review.md` — concise reviewer rubric used by the workflow
+- `docs/review.md` — concise reviewer rubric used by the workflow
 
 ## Intended use
 
